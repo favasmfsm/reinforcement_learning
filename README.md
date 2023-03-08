@@ -8,9 +8,7 @@ Reinforcement learning can be applied to numerous problems. Here we will be disc
 
 **Installation**:
 
-    ```python
-        pip install gym
-    ```
+    pip install gym
 
 ## CartPole game
 
