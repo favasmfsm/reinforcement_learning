@@ -6,6 +6,12 @@ Reinforcement learning can be applied to numerous problems. Here we will be disc
 
 **Problem statement**: The Frozen Lake environment is a 4×4 grid which contain four possible areas  — Safe (S), Frozen (F), Hole (H) and Goal (G). The agent moves around the grid until it reaches the goal or the hole. If it falls into the hole, it has to start from the beginning and is rewarded the value 0. The process continues until it learns from every mistake and reaches the goal eventually.
 
+**Installation**:
+
+    ```python
+        pip install gym
+    ```
+
 ## CartPole game
 
 CartPole is a reinforcement game provided by OpenAI Gym. 
